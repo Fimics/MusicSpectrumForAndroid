@@ -9,9 +9,10 @@ import android.graphics.PathMeasure;
 import android.graphics.Point;
 import android.graphics.PorterDuff;
 import android.graphics.PorterDuffXfermode;
-import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
+
+import androidx.annotation.Nullable;
 
 import com.sss.Utils;
 import com.sss.VisualizerHelper;

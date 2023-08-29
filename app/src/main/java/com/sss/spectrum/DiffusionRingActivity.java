@@ -1,9 +1,10 @@
 package com.sss.spectrum;
 
 import android.os.Bundle;
-import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
 import android.widget.SeekBar;
+
+import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.sss.VisualizerHelper;
 import com.sss.view.DiffusionRingView;
